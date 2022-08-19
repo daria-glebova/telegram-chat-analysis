@@ -4,7 +4,7 @@
 
 Hello!👋
 
-This project code allows you to quickly find out the descriptive statistics of a group chat in the Telegram messenger and display basic word clouds. 
+This project code allows you to quickly find out the descriptive statistics of a group chat in the Telegram messenger and display basic word clouds using Python. 
 
 ✨ Inspired by [thecleverprogrammer](https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/) project!
 
